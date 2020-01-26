@@ -6,8 +6,7 @@
 
 ## Links and Resources
 
-- [submission PR]
-- [ci/cd]
+- [Swagger](https://app.swaggerhub.com/apis/Rashid-alsawalqa/Simple-Api/0.1)
 
 ## Setup
 
